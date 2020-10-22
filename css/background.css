@@ -1,0 +1,8 @@
+#web_bg {
+  /* ����ͼ��ĵ�ַ��url�����  */
+  background: url(https://ftp.bmp.ovh/imgs/2020/10/a7e02d9bfbb7bc0a.jpg);
+  /* ����ͼ���ظ� */
+  background-repeat: no-repeat;
+  /* ����ͼ���С */
+  background-size: cover;
+}
