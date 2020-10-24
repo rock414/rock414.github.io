@@ -1,8 +1,8 @@
 #web_bg {
-  /* ����ͼ��ĵ�ַ��url�����  */
-  background: url(https://ftp.bmp.ovh/imgs/2020/10/a7e02d9bfbb7bc0a.jpg);
-  /* ����ͼ���ظ� */
+  /* 背景图像的地址（url括号里）  */
+  background: url(http://b244.photo.store.qq.com/psb?/V11vuUzL2vP3fd/euXPCbAXP1XC4R7.5*ablkbd*3g3K6UUQkTW1IvDXVQ!/b/dPQAAAAAAAAA&bo=6AOzAgAAAAARB2o!&rf=viewer_4);
+  /* 背景图像不重复 */
   background-repeat: no-repeat;
-  /* ����ͼ���С */
+  /* 背景图像大小 */
   background-size: cover;
 }
