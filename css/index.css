@@ -3032,7 +3032,7 @@ blockquote footer cite:before {
 #page-header #site-subtitle,
 #page-header #scroll-down .scroll-down-effects {
   text-align: center;
-  text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0.15);
+  text-shadow: 0.1rem 0.1rem 0.2rem rgba(25,12,20,0.99);
   line-height: 1.5;
 }
 #page-header #site-title {
